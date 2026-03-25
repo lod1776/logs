@@ -1,0 +1,25 @@
+﻿Date,Initiated by (actor),Application name,Activity,Target,Category,Status,Activity name,Operation type,Actor type
+2026-03-20T14:00:41.459Z,,Microsoft Intune portal extension,rebootNow ManagedDevice,rebootNow,Device,Success,rebootNow ManagedDevice,Action,ItPro
+2026-03-20T13:33:31.723Z,,Microsoft Intune portal extension,rebootNow ManagedDevice,rebootNow,Device,Success,rebootNow ManagedDevice,Action,ItPro
+2026-03-20T13:17:13.695Z,,Microsoft Intune portal extension,Delete DeviceManagementConfigurationPolicy,TEST - Bitlocker Recovery Key ,DeviceConfiguration,Success,Delete device configuration 2.0 (beta),Delete,ItPro
+2026-03-18T19:01:24.291Z,,Microsoft Intune portal extension,Patch DeviceManagementConfigurationPolicy,Restrict Chrome Extensions,DeviceConfiguration,Success,Update device configuration 2.0 (beta),Patch,ItPro
+2026-03-18T18:46:07.738Z,,Microsoft Intune portal extension,Create DeviceManagementConfigurationPolicyAssignment,Restrict Chrome Extensions,DeviceConfiguration,Success,Create device configuration assignment 2.0 (beta),Create,ItPro
+2026-03-18T18:46:07.436Z,,Microsoft Intune portal extension,Create DeviceManagementConfigurationPolicy,Restrict Chrome Extensions,DeviceConfiguration,Success,Create device configuration 2.0 (beta),Create,ItPro
+2026-03-18T18:45:02.321Z,,Microsoft Intune portal extension,Create DeviceManagementConfigurationPolicyAssignment,Restrict Edge Browser Extensions,DeviceConfiguration,Success,Create device configuration assignment 2.0 (beta),Create,ItPro
+2026-03-18T18:45:02.017Z,,Microsoft Intune portal extension,Create DeviceManagementConfigurationPolicy,Restrict Edge Browser Extensions,DeviceConfiguration,Success,Create device configuration 2.0 (beta),Create,ItPro
+2026-03-18T18:34:47.097Z,,Microsoft Intune portal extension,syncDevice ManagedDevice,syncDevice,Device,Success,syncDevice ManagedDevice,Action,ItPro
+2026-03-18T18:21:54.988Z,,Microsoft Intune portal extension,rebootNow ManagedDevice,rebootNow,Device,Success,rebootNow ManagedDevice,Action,ItPro
+2026-03-18T18:21:54.812Z,,Microsoft Intune portal extension,Rename device ManagedDevice,,Device,Success,Rename device,Action,ItPro
+2026-03-18T18:14:24.817Z,hank.hill@kingenviro.net,,Create ClientCertificate,,Enrollment,Success,ClientCertificate stored in certificate inventory,Create,ItPro
+2026-03-18T17:24:22.237Z,hank.hill@kingenviro.net,,Create ClientCertificate,,Enrollment,Success,ClientCertificate stored in certificate inventory,Create,ItPro
+2026-03-18T15:15:39.016Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:15:38.969Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:15:31.088Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:15:30.994Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:15:20.648Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:15:20.601Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:15:10.208Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:15:10.161Z,,Microsoft Intune portal extension,retire ManagedDevice,retire,Device,Success,retire ManagedDevice,Action,ItPro
+2026-03-18T15:12:36.682Z,,Microsoft Intune portal extension,SyncWindowsAutopilotDevices WindowsAutopilotSettings,,Enrollment,Success,Syncing Windows Autopilot Devices,Action,ItPro
+2026-03-18T15:11:42.520Z,,Microsoft Intune portal extension,CreateImportedWindowsAutopilotDeviceIdentity ImportedWindowsAutopilotDeviceIdentity,,Enrollment,Success,Create Imported Windows Autopilot Devices.,Create,ItPro
+2026-03-17T21:42:39.475Z,hank.hill@kingenviro.net,,Create ClientCertificate,,Enrollment,Success,ClientCertificate stored in certificate inventory,Create,ItPro
